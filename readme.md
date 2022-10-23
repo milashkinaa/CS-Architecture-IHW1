@@ -1,9 +1,11 @@
-__Алёшкина Милана Вадимовна, БПИ216__
+#__Алёшкина Милана Вадимовна, БПИ216__
 
 __Вариант 28. Условие задачи:__ Сформировать массив B из элементов массива A, которые образуют неубывающую последовательность. Неубывающей последовательностью считать элементы идущие подряд, которые равны между собой или каждый последующий больше предыдущего.
 
-[__Программа на Си:__](https://github.com/milashkinaa/CS-Architecture-IHW1/blob/main/program.c) 
+[__Программа на Си__](https://github.com/milashkinaa/CS-Architecture-IHW1/blob/main/program.c) 
+
 [__Код на ассемблере с комментариями__](https://github.com/milashkinaa/CS-Architecture-IHW1/blob/main/program.s)
+
 [__Тесты собраны вот тут__](https://github.com/milashkinaa/CS-Architecture-IHW1/tree/main/tests)
 
 __А теперь ближе к делу...__
